@@ -1,0 +1,2 @@
+# RetroRemakes Framework #
+The **RetroRemakes Framework** is an open source game engine developed in **BlitzMax** by members of the [www.retroremakes.com](http://www.retroremakes.com) community to aid in the development of retro-styled 2D games.
